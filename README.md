@@ -21,3 +21,7 @@ This project examines the September 2022 Rockstar Games security breach, during 
 ## Project Video
 
 Watch our project presentation on YouTube: [CEP146 GTA VI Cybersecurity Project](https://www.youtube.com/watch?v=OAWVdY-H6kY)
+
+## Team Collaboration
+
+Our team used GitHub Issues to organize project tasks and track progress. We used the repository to share our project script, presentation slides, research sources, and final video link.
