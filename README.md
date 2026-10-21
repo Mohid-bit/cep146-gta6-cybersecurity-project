@@ -19,4 +19,5 @@ This project examines the September 2022 Rockstar Games security breach, during 
 - [Game Developer — Rockstar confirms security breach](https://www.gamedeveloper.com/business/rockstar-confirms-hacker-penetrated-systems-stole-i-grand-theft-auto-vi-i-footage)
 
 ## Project Video
-Watch our project presentation on YouTube: CEP146 GTA VI Cybersecurity Project
+
+Watch our project presentation on YouTube: [CEP146 GTA VI Cybersecurity Project](https://www.youtube.com/watch?v=OAWVdY-H6kY)
